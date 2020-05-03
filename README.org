@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-90/][SRFI 90]]: Extensible hash table constructor, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
